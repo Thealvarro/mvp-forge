@@ -1,0 +1,35 @@
+MVP Forge — DROP #01 — Alvaro Labs
+v2.1 — 100% gratis
+
+De una idea a un proyecto construible.
+
+
+COMO EMPEZAR
+
+1) Abre 00-EMPIEZA-AQUI.md
+2) Elige UNA carpeta segun donde vayas a trabajar:
+
+   01-CHATGPT      -> ChatGPT      (no programas / cuenta gratis sirve)
+   02-CLAUDE       -> Claude.ai    (no programas / requiere plan pago)
+   03-CLAUDE-CODE  -> Claude Code  (desarrollas)
+   04-CODEX        -> Codex        (desarrollas)
+
+3) Abre INSTALAR-PASO-A-PASO.md dentro de esa carpeta
+4) Sigue los pasos. Son 5 minutos.
+
+No instales las cuatro versiones. Elige una.
+
+
+QUE MAS HAY ACA
+
+PLANTILLAS/  Los 10 documentos en blanco
+EJEMPLOS/    Un caso real completo, de principio a fin
+
+
+Si quieres entender que hace MVP Forge antes de instalar nada,
+abre EJEMPLOS/reserva-de-horas-peluqueria.md
+
+
+---
+DROP #01 — Alvaro Labs
+Desarrollado por SICS — alvarocofre.dev

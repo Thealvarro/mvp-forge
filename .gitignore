@@ -1,0 +1,17 @@
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Salida generada por MVP Forge al probarlo localmente
+proyecto/
+**/proyecto/
+
+# Temporales
+*.tmp
+*.log
