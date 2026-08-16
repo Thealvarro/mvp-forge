@@ -83,6 +83,17 @@ Escríbele: `Aplica FREE-FIRST y dame la ficha de 7 puntos.`
 **Se le olvidan cosas en una conversación larga.**
 Pídele: `Resume el estado del proyecto hasta ahora` y parte un chat nuevo dentro del mismo proyecto pegando ese resumen.
 
+**Se acabó mi límite de mensajes a mitad de la entrevista.**
+La entrevista son 9 etapas y consume varios turnos, así que en cuentas con poco cupo es común. No pierdes el trabajo. Antes de cerrar, pide:
+
+```
+Resume el estado del proyecto hasta ahora: qué etapas completamos y qué respondí en cada una.
+```
+
+Copia ese resumen y guárdalo. Cuando el límite se libere, abre un chat nuevo, pega el resumen y escribe `Continuemos desde aquí`.
+
+Con un plan pago terminas en una sola sesión. Los topes de cada plan cambian con frecuencia: revísalos en el sitio oficial de Anthropic.
+
 ---
 
 ## Qué recibes al final

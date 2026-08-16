@@ -31,6 +31,26 @@ Dentro de la carpeta que elijas hay un `INSTALAR-PASO-A-PASO.md`. Sigue eso y li
 
 ---
 
+## Ojo con los planes gratuitos
+
+MVP Forge es gratis. La IA donde lo usas, no siempre.
+
+La entrevista son 9 etapas y toma una conversación larga. Los planes gratuitos de ChatGPT y Claude tienen un tope de mensajes por período: si lo alcanzas a mitad de camino, la conversación se detiene hasta que el límite se libere. Es la interrupción más común.
+
+**Lo ideal es hacerla con un plan pago** (ChatGPT Plus o Claude Pro): la terminas en una sola sesión, sin cortes. No es obligatorio — con cuenta gratis funciona igual, solo que puede tomarte dos sesiones.
+
+Los topes cambian con frecuencia, así que no damos cifras: revísalos en el sitio oficial de cada plataforma.
+
+**Si te corta a mitad de camino no pierdes el trabajo.** Antes de cerrar, pide esto:
+
+```
+Resume el estado del proyecto hasta ahora: qué etapas completamos y qué respondí en cada una.
+```
+
+Guarda ese resumen. Cuando el límite se libere, pégalo en un chat nuevo y escribe `Continuemos desde aquí`.
+
+---
+
 ## Las dos ediciones
 
 **Starter** (ChatGPT y Claude) — conversa contigo y te entrega los 10 documentos como texto listo para copiar. Explica cada término técnico. Pensada para gente que no programa.

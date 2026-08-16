@@ -2,7 +2,7 @@
 
 Para personas que no programan. Funciona en cuentas Free y Plus.
 
-Tiempo: unos 5 minutos, una sola vez.
+La instalación toma unos 5 minutos, una sola vez. La entrevista viene después y es una conversación larga: en cuenta gratuita puede cortarse al llegar al tope de mensajes. Lo ideal es hacerla con Plus. Más abajo, en "Si algo no resulta", está qué hacer si te pasa.
 
 ---
 
@@ -80,6 +80,17 @@ Escríbele: `Aplica FREE-FIRST y dame la ficha de 7 puntos.`
 
 **No encuentro dónde subir los archivos.**
 Los Proyectos de ChatGPT tienen una zona de archivos dentro del proyecto. Si tu cuenta no muestra Proyectos, abre un chat normal, adjunta los dos archivos y pega el contenido de `INSTRUCCIONES.md` como primer mensaje.
+
+**Se acabó mi límite de mensajes a mitad de la entrevista.**
+Le pasa a la mayoría de las cuentas gratuitas: la entrevista son 9 etapas y consume varios turnos. No pierdes el trabajo. Antes de cerrar, pide:
+
+```
+Resume el estado del proyecto hasta ahora: qué etapas completamos y qué respondí en cada una.
+```
+
+Copia ese resumen y guárdalo donde quieras. Cuando el límite se libere, abre un chat nuevo dentro del mismo proyecto, pega el resumen y escribe `Continuemos desde aquí`.
+
+Con ChatGPT Plus esto no suele ocurrir y terminas en una sola sesión. Los topes de cada plan cambian con frecuencia: revísalos en el sitio oficial de OpenAI.
 
 ---
 
