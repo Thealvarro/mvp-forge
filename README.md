@@ -8,7 +8,7 @@
 
 DROP #01 — Álvaro Labs · v2.1 · 100% gratis
 
-[Descargar MVP Forge](MVP-Forge-DROP-01.zip?raw=1) · [Empezar](MVP-Forge-DROP-01/00-EMPIEZA-AQUI.md) · [Ver un ejemplo real](MVP-Forge-DROP-01/EJEMPLOS/reserva-de-horas-peluqueria.md)
+[Descargar MVP Forge](https://github.com/Thealvarro/mvp-forge/releases/latest/download/MVP-Forge-DROP-01.zip) · [Empezar](MVP-Forge-DROP-01/00-EMPIEZA-AQUI.md) · [Ver un ejemplo real](MVP-Forge-DROP-01/EJEMPLOS/reserva-de-horas-peluqueria.md)
 
 </div>
 
@@ -103,7 +103,7 @@ No instales las cuatro. Elige una.
 
 ## Cómo comenzar
 
-1. **[Descarga el ZIP](MVP-Forge-DROP-01.zip?raw=1)** (70 KB). También puedes bajar el repositorio completo con el botón verde `Code → Download ZIP`.
+1. **[Descarga el ZIP](https://github.com/Thealvarro/mvp-forge/releases/latest/download/MVP-Forge-DROP-01.zip)** (85 KB). También puedes bajar el repositorio completo con el botón verde `Code → Download ZIP`.
 2. **Descomprime** y abre `MVP-Forge-DROP-01/`.
 3. **Elige tu carpeta** y sigue su `INSTALAR-PASO-A-PASO.md`.
 

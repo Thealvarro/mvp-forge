@@ -76,6 +76,18 @@ Compress-Archive -Path "$cx\SKILL-PARA-CODEX\mvp-forge-builder" -DestinationPath
 
 El nombre del ZIP de la raíz **no lleva versión**. Es a propósito: el link se comparte por WhatsApp y ManyChat, y si el nombre cambia con cada versión, los links repartidos se rompen. La versión va en `VERSION.txt` y en `CHANGELOG.md`.
 
+`MVP-Forge-DROP-01.zip` además se sube como asset de la release. Ese es el link que se reparte:
+
+```
+https://github.com/Thealvarro/mvp-forge/releases/latest/download/MVP-Forge-DROP-01.zip
+```
+
+Apunta siempre a la última release, así que no hay que actualizarlo al publicar una versión nueva. No repartas el link a `/blob/…`: esa vista intenta previsualizar el ZIP y falla con "Error loading page".
+
+```powershell
+gh release upload v2.1.1 MVP-Forge-DROP-01.zip --clobber
+```
+
 ## La portada
 
 `assets/imagen-mvp-forge.png` es la portada oficial y la promesa pública del producto. Si cambian los nombres de archivo o los comandos de instalación, **la imagen queda mintiendo**. Revisa que sigan calzando:
@@ -95,3 +107,4 @@ El nombre del ZIP de la raíz **no lleva versión**. Es a propósito: el link se
 - [ ] `VERSION.txt` y `CHANGELOG.md` actualizados
 - [ ] La portada sigue calzando con el contenido
 - [ ] Probado de verdad en al menos una plataforma
+- [ ] `MVP-Forge-DROP-01.zip` subido como asset de la release
