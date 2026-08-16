@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.1.1
+
+MVP Forge ahora tiene voz propia.
+
+Se agregó una sección **Tono** a las reglas base: español neutro, entendible en cualquier país hispanohablante, sin modismos locales. El agente mantiene ese tono aunque el entorno de trabajo tenga otro estilo configurado, salvo que la persona pida expresamente algo distinto.
+
+Sin este cambio, en Claude Code y Codex el agente heredaba el estilo personal del usuario (por ejemplo, un `CLAUDE.md` global con modismos de un país), y la experiencia dejaba de ser consistente entre plataformas.
+
 ## 2.1.0
 
 Primera versión pública de MVP Forge — DROP #01 de Álvaro Labs.
